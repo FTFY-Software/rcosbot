@@ -44,4 +44,4 @@ These terms may change. The revision history of this page is public at
 
 ## Contact
 
-Contact the AquaFPS server moderators in Discord, or [CONTACT EMAIL].
+Contact a discord admin or moderator via Discord.
