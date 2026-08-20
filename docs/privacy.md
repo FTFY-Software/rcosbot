@@ -7,8 +7,8 @@ title: Privacy Policy
 
 **Effective 20 August 2026.**
 
-rcosbot ("the bot") is a moderation and audit-logging bot operated by the staff of the AquaFPS
-Discord server. This policy describes what the bot processes, why, and how long it is kept. You can
+rcosbot ("the bot") is a moderation and audit-logging bot operated by the staff of select discord servers.
+This policy describes what the bot processes, why, and how long it is kept. You can
 see a short version at any time inside Discord by running `/privacy`.
 
 ## Message content
@@ -30,8 +30,10 @@ available, which moderator acted. Bans and unbans, joins and leaves, and role, n
 and avatar changes are recorded the same way.
 
 These records exist so moderators can review each other's actions and so reported content can still
-be examined after the author deletes it. They stay inside Discord and are visible only to server
-staff.
+be examined and reported to Discord, if warranted, after deletion. They stay inside Discord and are
+visible only to server staff.  The bot includes code to flag personally identifiable information and
+anonymizes or otherwise censors the content prior to recording. They may also be manually purged by 
+staff upon user request. 
 
 ## Joins
 
@@ -60,9 +62,10 @@ pseudonym rather than by name or user ID.
 
 ## Retention, access and removal
 
-Audit records persist in the staff channel until staff delete them or the channel is cleared. To ask
-what is held about you, or to request removal of a specific audit entry, contact the server
-moderators in Discord. Leaving the server stops all further processing.
+Audit records are automatically purge after varying duration, depending on the severity of the 
+triggering infraction, not to exceed 120 days. To ask what is held about you, or to request removal
+of a specific audit entry, contact the server moderators in Discord.
+Leaving the server stops all further processing.
 
 ## Changes
 
@@ -71,4 +74,4 @@ is public at <https://github.com/FTFY-Software/rcosbot>.
 
 ## Contact
 
-Contact the AquaFPS server moderators in Discord, or [CONTACT EMAIL].
+Contact a discord server Admin in Discord for questions or assistance.
